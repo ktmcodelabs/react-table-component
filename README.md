@@ -15,12 +15,12 @@ npm install --save react-table-component
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-table-component'
+import Table from 'react-table-component'
 import 'react-table-component/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <Table />
   }
 }
 ```
