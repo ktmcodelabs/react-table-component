@@ -10,6 +10,9 @@
 npm install --save reactjs-table-component
 ```
 
+## Demo
+[Click for Demo](https://ktmcodelabs.github.io/reactjs-table-component/)
+
 ## Usage
 
 ```jsx
