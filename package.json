@@ -1,10 +1,10 @@
 {
-  "name": "react-table-component",
+  "name": "reactjs-table-component",
   "version": "1.0.0",
   "description": "table barebone component for react js",
   "author": "ktmcodelabs",
   "license": "MIT",
-  "repository": "ktmcodelabs/react-table-component",
+  "repository": "ktmcodelabs/reactjs-table-component",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

@@ -1,9 +1,30 @@
 /* add css module styles here (optional) */
 
-.test {
-  margin: 2em;
-  padding: 0.5em;
-  border: 2px solid #000;
-  font-size: 2em;
-  text-align: center;
+.react_table {
+  width: 100%;
+  border: solid 1px #ccc;
+}
+
+.react_table caption {
+  color:blueviolet;
+  text-transform: uppercase;
+}
+.react_table thead th {
+  border-bottom: solid 1px #ccc;
+  border-right: solid 1px #ccc;
+  padding: 5px;
+}
+
+.react_table tbody td {
+  border-bottom: solid 1px #ccc;
+  border-right: solid 1px #ccc;
+  padding: 5px;
+}
+
+.react_table thead th:last-child,
+.react_table tbody td:last-child {
+  border-right: 0;
+}
+.react_table tbody tr:last-child td {
+  border-bottom: 0;
 }
