@@ -19,7 +19,7 @@ const App = () => {
       [
         { key: 'id', width: "40", align: "center" },
         { key: 'name', width: "300", align: "left" },
-        { key: 'address', width: '500' }
+        { key: 'address', label:'Full Address', width: '500' }
       ]
     }
     //columns={['id', 'name']}

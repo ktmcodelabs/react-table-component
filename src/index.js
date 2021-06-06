@@ -47,7 +47,7 @@ export const Table = (props) => {
             style={headerCellCallback && { cursor: 'pointer' }}
             width={header.width ? header.width : ''}
             align={header.align ? header.align : 'left'}>
-            {header?.key?.toUpperCase()}
+              {header && header.label? header.label.toUpperCase():header.key.toUpperCase()}
           </th>
         })}
       </tr>
