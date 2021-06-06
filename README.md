@@ -1,6 +1,6 @@
 # reactjs-table-component
 
-> table barebone component for react js
+> Table component for react js to quick render data objects in table grid
 
 [![NPM](https://img.shields.io/npm/v/reactjs-table-component.svg)](https://www.npmjs.com/package/reactjs-table-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
